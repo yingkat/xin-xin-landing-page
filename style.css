@@ -1,0 +1,54 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #222;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #222;
+    color: #fff;
+    text-align: center;
+    padding: 2rem 1rem;
+}
+
+.logo {
+    height: 100px;
+    margin-bottom: 1rem;
+}
+
+.hero {
+    text-align: center;
+    padding: 2rem 1rem;
+    background-color: #ddd;
+}
+
+.hero h2 {
+    color: #333;
+}
+
+.whatsapp-button {
+    display: inline-block;
+    margin-top: 1rem;
+    padding: 0.8rem 1.5rem;
+    background-color: #25d366;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 8px;
+}
+
+section {
+    padding: 2rem 1rem;
+    max-width: 800px;
+    margin: auto;
+}
+
+footer {
+    background-color: #222;
+    color: white;
+    text-align: center;
+    padding: 1rem;
+}
